@@ -1,0 +1,3 @@
+[submodule "cookbooks/rsync"]
+	path = cookbooks/rsync
+	url = git://github.com/opscode-cookbooks/rsync.git
